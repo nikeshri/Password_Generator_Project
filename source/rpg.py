@@ -16,10 +16,10 @@ def random_password_generator_ico():
 	#############################################################
 	#                         CONTACT                           #
 	#############################################################
-	#               DEVELOPER : Nikesh mishra                #
+	#               DEVELOPER : Nikesh mishra                   #
 	#          Mail Address : mishranikesh317@gmail.com         #
-	#     #
-	#                           #
+	#                                                           #
+	#                                                           #
 	#############################################################
 	"""
 	print(random_password_generator_ico)
